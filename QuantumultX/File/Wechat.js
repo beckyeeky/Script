@@ -1,9 +1,6 @@
-/*
-[rewrite_local]
-^https?://mp.weixin.qq.com/mp/getappmsgad url script-response-body https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/Wechat.js
-
-hostname = mp.weixin.qq.com,
-*/
+/**
+ * @supported 8E5B14F73C92
+ */
 
 var obj = JSON.parse($response.body);
 obj.advertisement_num = 0;
