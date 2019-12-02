@@ -1,4 +1,7 @@
-var body = $response.body;
+/**
+ * @supported 8E5B14F73C92
+ */
+ var body = $response.body;
 var url = $request.url;
 
 const path1 = '/api/subscriptions/2.1/user-subscriptions/';

@@ -1,4 +1,7 @@
-var body = $response.body;
+/**
+ * @supported 8E5B14F73C92
+ */
+ var body = $response.body;
 var url = $request.url;
 
 const vip = '/v1/users/';
