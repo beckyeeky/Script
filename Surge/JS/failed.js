@@ -1,4 +1,7 @@
-/*
+/**
+ * @supported 8E5B14F73C92
+ */
+ /*
 [Rule]
 SCRIPT,falied,PROXY,requires-resolve
 

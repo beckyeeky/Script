@@ -1,4 +1,7 @@
-/*
+/**
+ * @supported 8E5B14F73C92
+ */
+ /*
 [Script]
 http-response ^https://[a-zA-Z]*\.snssdk\.com/api/news/feed/v88/ requires-body=1,max-size=-1,script-path=https://Choler.github.io/Surge/Script/Toutiao.js
 

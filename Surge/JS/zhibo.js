@@ -1,4 +1,7 @@
-let obj = JSON.parse($response.body);
+/**
+ * @supported 8E5B14F73C92
+ */
+ let obj = JSON.parse($response.body);
 let url = $request.url;
 
 const ylm = '/api/public/?service=Live.checkLive';

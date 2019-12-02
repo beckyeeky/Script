@@ -1,4 +1,7 @@
-/*
+/**
+ * @supported 8E5B14F73C92
+ */
+ /*
 Gyroscope unlock pro (Script author: @Maasea )
 Surge:
 http-response ^https:\/\/api\.gyrosco\.pe\/v1\/account\/$ requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/gyroscope.js

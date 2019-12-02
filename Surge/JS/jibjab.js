@@ -1,4 +1,7 @@
-/*
+/**
+ * @supported 8E5B14F73C92
+ */
+ /*
 JibJab unlock
 
 Surge4:
