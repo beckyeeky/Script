@@ -1,3 +1,6 @@
+/**
+ * @supported 8E5B14F73C92
+ */
 var body = $response.body;
 var obj = JSON.parse(body);
 var headers = $request.headers;
