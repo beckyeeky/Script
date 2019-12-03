@@ -1,4 +1,7 @@
-/*
+/**
+ * @supported 660C1F5C3E2B 8E5B14F73C92
+ */
+ /*
 bilibili home page module customization whitelist. by onewayticket255
 
 QX:

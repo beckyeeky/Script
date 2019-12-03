@@ -1,4 +1,7 @@
-/*
+/**
+ * @supported 660C1F5C3E2B 8E5B14F73C92
+ */
+ /*
 Baidu netdisc unlocks online video play speed.
 
 Surge4.0:

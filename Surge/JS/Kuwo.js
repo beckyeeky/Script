@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 /**
- * @supported 8E5B14F73C92
+ * @supported 660C1F5C3E2B 8E5B14F73C92
  */
  /*
 Regex: ^https?:\/\/vip1\.kuwo\.cn\/(vip\/v2\/user\/vip|vip\/spi/mservice)

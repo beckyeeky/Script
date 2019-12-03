@@ -1,4 +1,8 @@
-//Customize blacklist
+
+/**
+ * @supported 660C1F5C3E2B 8E5B14F73C92
+ */
+ //Customize blacklist
 /*
 ^https://app.bilibili.com/x/resource/show/tab\?access_key url script-response-body https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/bilibiliTab.js
 ^https://app.bilibili.com/x/v2/feed/index\?access_key url script-response-body https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/bilibiliFeed.js

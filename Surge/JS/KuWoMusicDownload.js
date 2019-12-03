@@ -1,4 +1,7 @@
-/*
+/**
+ * @supported 660C1F5C3E2B 8E5B14F73C92
+ */
+ /*
 KuWo music unlock lossless download, need to use with KuWo music VIP script.
 
 Surge4.0:

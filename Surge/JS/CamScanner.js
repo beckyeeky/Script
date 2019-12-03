@@ -1,4 +1,7 @@
-/*
+/**
+ * @supported 660C1F5C3E2B 8E5B14F73C92
+ */
+ /*
 CamScanner unlocks pro, Cloud scanning is not available.
 
 QuanX 1.0.0:  [rewrite_local]

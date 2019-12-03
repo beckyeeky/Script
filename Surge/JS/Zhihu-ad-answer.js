@@ -1,4 +1,7 @@
-//regex: ^https://api.zhihu.com/.*/questions
+/**
+ * @supported 660C1F5C3E2B 8E5B14F73C92
+ */
+ //regex: ^https://api.zhihu.com/.*/questions
 //Original author: onewayticket255
 
 let body = $response.body

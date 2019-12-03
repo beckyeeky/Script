@@ -1,5 +1,5 @@
 /**
- * @supported 8E5B14F73C92
+ * @supported 660C1F5C3E2B 8E5B14F73C92
  */
  let obj = JSON.parse($response.body);
 let url = $request.url;

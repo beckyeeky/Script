@@ -1,4 +1,7 @@
-/*
+/**
+ * @supported 660C1F5C3E2B 8E5B14F73C92
+ */
+ /*
 Bahamut animation app removes ads. This script is only compatible with surge 4.0
 If reprinted, please indicate the source. My TG channel @NobyDa
 
