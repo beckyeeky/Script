@@ -1,7 +1,4 @@
-/**
- * @supported 660C1F5C3E2B 8E5B14F73C92
- */
- /*
+/*
 看漫画极速版 unlock vip, currently off the shelf
 
 QX:

@@ -1,7 +1,4 @@
-/**
- * @supported 660C1F5C3E2B 8E5B14F73C92
- */
- /*
+/*
 TickTick (Tick list) unlock pro
 QX:
 ^https:\/\/(ticktick|dida365)\.com\/api\/v2\/user\/status url script-response-body https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/DiDaQingDan.js

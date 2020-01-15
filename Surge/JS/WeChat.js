@@ -1,7 +1,4 @@
-/**
- * @supported 660C1F5C3E2B 8E5B14F73C92
- */
- /*
+/*
 [Script]
 http-request ^https://mp\.weixin\.qq\.com/mp/getappmsgad script-path=https://Choler.github.io/Surge/Script/WeChat.js
 

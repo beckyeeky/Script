@@ -1,7 +1,4 @@
-/**
- * @supported 660C1F5C3E2B 8E5B14F73C92
- */
- /*
+/*
 Keep app unlock private lessons and action libraries.
 There is a bug in the QX app. This script may not work, but the surge does not have this problem.
 
